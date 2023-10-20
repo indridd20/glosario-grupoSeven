@@ -3,3 +3,9 @@ header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+FondoCasillas{
+    background-color: blue;
+    text-align: center;
+    text-decoration: black;
+}
