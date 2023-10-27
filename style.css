@@ -7,12 +7,14 @@ header{
 label{
     align-content: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
 }
 
 input{ 
 
     background-color: rgb(23, 150, 182);
     text-align: center;
+
 }
 
 footer{
