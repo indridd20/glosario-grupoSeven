@@ -4,11 +4,13 @@ header{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-FondoCasillas{
-    background-color: blue;
-    text-align: center;
-    text-decoration: black;
-}
 label{
-    back
+    align-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{ 
+
+    background-color: rgb(23, 150, 182);
+    align-content: center;
 }
