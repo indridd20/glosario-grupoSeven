@@ -1,3 +1,45 @@
 *{
-    
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: rgb(63, 58, 139);
+    padding: 0;
+}
+
+body {
+    background-color: rgb(186, 217, 237);
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+    margin-left: 300px;
+}
+
+.footer{
+    position: relative;
+    top: 9cm;
+    background-color: rgb(37, 32, 99);
+    width: 100%;
+    height: 10cm;
+    margin: 0;
+    padding: 0;
+}
+
+.textoFooter {
+    text-align: left;
+    color: aliceblue;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ub{
+    justify-content: right;
+    align-content: right;
+}
+
+.LogIn{
+    border-radius: 5%;
 }
